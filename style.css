@@ -11,11 +11,13 @@ a {
   color: #885df1;
 }
 img {
-  width: 100%;
+  width: 80%;
   margin: 20px auto;
   border-radius: 30px;
   display: block;
-  box-shadow: 50px;
+}
+.shadowBox {
+  box-shadow: 5px 5px 10px rgba(233, 177, 177, 0.3);
 }
 .contact-btn {
   display: block;
