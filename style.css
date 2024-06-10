@@ -17,7 +17,7 @@ img {
   display: block;
 }
 .shadowBox {
-  box-shadow: 5px 5px 10px rgba(233, 177, 177, 0.3);
+  box-shadow: 5px 5px 10px rgb(145, 145, 169);
 }
 .contact-btn {
   display: block;
